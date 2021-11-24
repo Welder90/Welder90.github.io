@@ -20,7 +20,7 @@ def main():
                 "* Sore throat\n"
                 "* Congestion or runny nose\n"
                 "* Nausea or vomiting\n"
-                "* Diarrhea"))
+                "* Diarrhoea"))
     st.markdown("## Vaccines")
     st.markdown("Track [here](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)")
     st.markdown("## Resources")
