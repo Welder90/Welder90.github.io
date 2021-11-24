@@ -21,8 +21,8 @@ def main():
     st.sidebar.title("About")
     st.sidebar.info(
         """
-        This app is maintained by Sayar Banerjee. You can learn more about me at
-        [sayar1106.github.io](https://Welder90.github.io).
+        This app is maintained by Will Elder. You can learn more about me at
+        [Welder90.github.io](https://Welder90.github.io).
         """
     )
     st.sidebar.title("Contribute")
