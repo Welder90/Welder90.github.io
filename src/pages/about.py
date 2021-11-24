@@ -5,7 +5,7 @@ def main():
     st.title("About")
     st.info(
         """
-        This app is maintained by Sayar Banerjee. You can learn more about me at
-        [sayar1106.github.io](https://sayar1106.github.io).
+        This app is maintained by Will Elder. You can learn more about me at
+        [Welder90.github.io](https://Welder90.github.io).
         """
 )
